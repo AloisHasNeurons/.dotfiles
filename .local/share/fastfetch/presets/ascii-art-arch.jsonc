@@ -41,7 +41,6 @@
         },
         {
             "type": "packages",
-            "format": "{} (dnf)",
             "key": "packages ",
             "keyColor": "33",  
         },
