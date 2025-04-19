@@ -107,4 +107,4 @@ alias img="kitten icat"
 
 export PATH="/home/alois/.local/bin:/home/alois/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin:/home/alois/.spicetify:/opt/ibm/ILOG/CPLEX_Studio2211/opl/bin/x86-64_linux/oplrun:/opt/ibm/ILOG/CPLEX_Studio2211/cplex/bin/x86-64_linux:/opt/ibm/ILOG/CPLEX_Studio2211/opl/bin/x86-64_linux"
 
-fastfetch --config ascii-art --logo fedora_small
+fastfetch --config ascii-art-arch --logo arch_small
